@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 08, 2024 
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Discovered The Odin project, Learned about the Javascript Engine and runtime, execution context, scoping chain, Hoisting and TDZ
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
+1.I have understood that Javascript is JIT Compilation Language. The Browser contains Javascript engine, javascript runtime is like a container that has Javascript Engine and all the elements required like WebAPIS, Call back Queues.
+2. The code written in Javascript is parsed into an AST (Abstract Syntax Tree) Which then gets converted into machine language and gets executed in the call stack.
+3. Before Execution execution contexts are generated, Global execution context gets created from the top level code and the functions get their own execution context.
+
+Overall, for the first time I have understood regarding scoping, the global scope, the function scope, the block Scope. The hoisting of Function declarations , var variables, Let & Const Variables, Function expressions and Arrow Functions
+
+I would want to revise these concepts everyday to expand my understanding in greater detail.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
