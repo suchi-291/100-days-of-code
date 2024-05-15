@@ -1,7 +1,6 @@
-# 100 Days Of Code - Log
-
-### Day 1: May 08, 2024 
-##### 
+# Dailylog
+<details>
+<summary>Day 1: May 08, 2024 </summary>
 
 **Today's Progress**: Discovered The Odin project, Learned about the Javascript Engine and runtime, execution context, scoping chain, Hoisting and TDZ
 
@@ -15,4 +14,7 @@ Overall, for the first time I have understood regarding scoping, the global scop
 I would want to revise these concepts everyday to expand my understanding in greater detail.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
+  
+</details>
 
