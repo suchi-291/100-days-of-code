@@ -16,7 +16,7 @@
 - [ ] Create a professional portfolio
 - [ ] Get out of tutorial hell and be able to build projects on my own
 
-[Dailylogs](https://github.com/suchi-291/100-days-of-code/blob/9fc14f69d5368d7dcd4b576ffe2f22f60025f7cd/log.md)|
+[Dailylogs](https://github.com/suchi-291/100-days-of-code/blob/9fc14f69d5368d7dcd4b576ffe2f22f60025f7cd/log.md) 
 
 **update (15/05/24)** - It's been a week, since I have gotten into 100 DaysOfCode Challenge, I have updated my progress on my [twitter](https://twitter.com/RaoSuchitha) account from Day-1 but have'nt entered logs, but I have decided to try out right this time, and will upload daily logs.
 
