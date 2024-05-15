@@ -2,13 +2,13 @@
 **Goal - To become a Skilled React Js Developer.**
 **Starting Date - 07,May 2024**
 **Agenda:**
-- [ ] Complete the Javascript Mastery Course by Jonas Schmedtmann
+- [ ] Complete the [Javascript Mastery Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
 - [ ] Complete [FCC Legacy JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) Certification
 - [ ] Complete [FCC Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
-- [ ] Complete the  Ultimate React Course by Jonas Schmedtmann
-- [ ] Develop an E-commerce Website using HMTL, CSS, JS, React
-- [ ] Develop an OTT Website using HMTL, CSS, JS, React
-- [ ] Learn Front-end from the Odin Project
+- [ ] Complete [the  Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)
+- [ ] Develop an E-commerce Website using HMTL, CSS, JS, React - [propeers](https://www.propeers.in/roadmaps/657dafb34f74377fd1ac07b0)
+- [ ] Develop an OTT Website using HMTL, CSS, JS, React - [propeers](https://www.propeers.in/roadmaps/657dafb34f74377fd1ac07b0)
+- [ ] Learn Front-end from [the Odin Project](https://www.theodinproject.com/)
 - [ ] Create a professional portfolio
 - [ ] Get out of tutorial hell and be able to build projects on my own
 
