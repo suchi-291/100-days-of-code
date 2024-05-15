@@ -1,5 +1,13 @@
 # 100DaysOfCode Challenge
 
+I have seen people code every day and complete the challenge. This challenge makes me feel accountable and not lose track of my progress.
+
+As per the challenge, I will code for at least an hour every day for the next 100 days.
+
+I’ve decided to make this a public commitment.
+
+And you should join me too. Please visit [100DaysOfCode](https://www.100daysofcode.com/) Official Website for more information about the challenge
+
 **Goal - To become a Skilled React Js Developer.**
 
 **Starting Date - 07,May 2024**
