@@ -1,6 +1,6 @@
 # 100DaysOfCode Challenge
 
-I have seen people code every day and complete the challenge. This challenge makes me feel accountable and not lose track of my progress.
+I have seen people code every day and complete the challenge. This challenge helps me feel accountable and not lose track of my progress.
 
 As per the challenge, I will code for at least an hour every day for the next 100 days.
 
