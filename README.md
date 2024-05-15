@@ -14,10 +14,10 @@ And you should join me too. Please visit [100DaysOfCode](https://www.100daysofco
 
 
 **Agenda:**
-- [ ] Complete the [Javascript Mastery Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+- [ ] Learn from the [Javascript Mastery Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) and build projects
 - [ ] Complete [FCC Legacy JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) Certification
 - [ ] Complete [FCC Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
-- [ ] Complete [the  Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)
+- [ ] Learn react from [the  Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/) and build projects
 - [ ] Develop an E-commerce Website using HMTL, CSS, JS, React - [propeers](https://www.propeers.in/roadmaps/657dafb34f74377fd1ac07b0)
 - [ ] Develop an OTT Website using HMTL, CSS, JS, React - [propeers](https://www.propeers.in/roadmaps/657dafb34f74377fd1ac07b0)
 - [ ] Learn Front-end from [the Odin Project](https://www.theodinproject.com/)
