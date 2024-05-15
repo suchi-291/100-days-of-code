@@ -1,5 +1,6 @@
 # 100DaysOfCode Challenge
 **Goal - To become a Skilled React Js Developer.**
+
 **Starting Date - 07,May 2024**
 **Agenda:**
 - [ ] Complete the [Javascript Mastery Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
