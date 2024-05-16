@@ -28,7 +28,7 @@ I would want to revise these concepts everyday to expand my understanding in gre
 3. Finally completed the game using space theme.
 
 
-**Link to work:** 
+**Link to work:** [Galactic Glyph - Pyramid generator](https://suchi-291.github.io/GalacticGlyph/)
 
   
 </details>
