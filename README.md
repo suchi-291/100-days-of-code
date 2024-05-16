@@ -29,4 +29,8 @@ And you should join me too. Please visit [100DaysOfCode](https://www.100daysofco
 **update (15/05/24)** - It's been a week, since I have gotten into 100 DaysOfCode Challenge, I have updated my progress on my [twitter](https://twitter.com/RaoSuchitha) account from Day-1 but have'nt entered logs, I have decided to try out right this time, and will upload daily logs.
 
 
-
+## Projects
+| Date | Name | Technology | Link | 
+|------|------|------------|-------|
+|19-05-24| Galactic Glyph | HTML, CSS, Javascript | [Link](https://suchi-291.github.io/GalacticGlyph/) |
+|--------|----------------|-----------------------|----------------------------------------------------|
