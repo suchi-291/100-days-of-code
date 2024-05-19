@@ -22,6 +22,7 @@ I would want to revise these concepts everyday to expand my understanding in gre
 <summary>Day 8: May 16, 2024 </summary>
 
 **Today's Progress**: Today has been the continuation of yesterday's FCC pyramid generator I have completed. I decided to bring in some changes and build a game out of it.
+
 **Thoughts:** 
 1. First of all, I have created, html, css along with js code. I have created events, created field for the user to give input.
 2. changing the logic as per the choice user makes using radial buttons, outputting the pyramid on to Document properly all of these tasks took a lot of time for me. I did not know how to print the output exactly on to the document, took help of chat gpt over there.
