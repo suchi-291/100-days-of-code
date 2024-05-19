@@ -51,6 +51,8 @@ for..of loop is so cool, and being able to access every element of an array and 
 <summary>Day 10: May 19, 2024 </summary>
 
 **Today's Progress**: Solved CodeWars challenges, FCC gradeBook, Solved challenges related to Sets, maps
+
+
 **Thoughts:** 
 Thought of solving leetcode problems but the daily streak challenge required knowing DSA, I am from Non-CS/IT background so DSA feels very alien. I can see the difference in me, back then I hesitated to solve challenges because I couldnt understand the question at least. To me, being able to do this minimum is a reward. I am happy and I believe I will become a good developer soon. I have a phobia of forgetting everything I learnt so, from this week, I am planning on following a revision ritual every wednesday and sunday.
 My TO DO list:
