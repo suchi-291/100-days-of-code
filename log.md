@@ -45,3 +45,29 @@ for..of loop is so cool, and being able to access every element of an array and 
 
   
 </details>
+
+<details>
+<summary>Day 10: May 19, 2024 </summary>
+
+**Today's Progress**: Solved CodeWars challenges, FCC gradeBook, Solved challenges related to Sets, maps
+**Thoughts:** 
+Thought of solving leetcode problems but the daily streak challenge required knowing DSA, I am from Non-CS/IT background so DSA feels very alien. I can see the difference in me, back then I hesitated to solve challenges because I couldnt understand the question at least. To me, being able to do this minimum is a reward. I am happy and I believe I will become a good developer soon. I have a phobia of forgetting everything I learnt so, from this week, I am planning on following a revision ritual every wednesday and sunday.
+My TO DO list:
+- [x] - practice CodeWars 1hr
+- [x] - Solve FCC 2hr
+- [x] - JS Udemy 4hr
+- [x] - Research 30m
+- [ ] - Odin project 30m 
+      
+Today I could not complete the Odin project, I have limited the time for it to 30mins, because I wanted to complete the Udemy course as fast as possible, to be able to start React, in future hopefully I will assign 1 to 2hr for the Odin project.
+
+The problems I faced today, Somehow even though I was getting the output, FCC Javascript Algorithms and Data Structures curriculum I am facing issues while submitting, my code is not getting accepted, so I did not feel so much productive with FCC today.
+
+I thought of solving leetcode problems in the beginning it was solvable but felt drawn to Codewars instead of leetCode, so there I lost 30mins to exploring how leetcode works
+
+I have learnt a little bit of how to deploy code to git from VS Code. But I need to figure out how I can commit files to an already exisiting git repository
+
+**Link to work:**  [notes, JS challenges](https://github.com/suchi-291/JavascriptLessons/tree/229c7bfb2bcaeb10816a2cadaf7142c4a33326b5/day21-DataStructuresModernOperatorsStrings)
+
+  
+</details>
