@@ -74,3 +74,26 @@ I have learnt a little bit of how to deploy code to git from VS Code. But I need
 
   
 </details>
+
+<details>
+<summary>Day 11: May 20, 2024 </summary>
+
+**Today's Progress**: Solved CodeWars challenges, FCC legacy JS DSA, Working with Strings
+
+
+**Thoughts:** 
+It's fun solving CodeWar problems, today went smooth, I have given most of the time to FCC Legacy Javascript and Algorithms ES6 chapter, I've encountered way more advanced topics which I have not yet covered in my Udemy Course.
+My TO DO list:
+- [x] - practice CodeWars 1hr
+- [x] - Solve FCC 2hr
+- [x] - JS Udemy 4hr
+- [x] - Research 30m
+- [ ] - Odin project 30m 
+      
+I figured out how to commit from VS code to existing repositories 🥳. I still have some time to complete set task for the Odin project, will update as soon as I cover it, if not It's going to be the first thing I shall be doing in the morning!
+
+**Link to work:**  [notes](https://github.com/suchi-291/JavascriptLessons/tree/f7225323275cfc57a42bc78d325638c63f79c414/day22-DSModernOperatorsStrings)
+
+  
+</details>
+
