@@ -97,3 +97,24 @@ I figured out how to commit from VS code to existing repositories 🥳. I still 
   
 </details>
 
+<details>
+<summary>Day 12: May 21, 2024 </summary>
+
+**Today's Progress**: Solved CodeWars challenges, Odin project CLI , Working with Strings
+
+
+**Thoughts:** 
+Today went into going through the unix shell documentation. I have leveled up to 7kyu in CodeWars 💪. Worked with strings using string methods.
+My TO DO list:
+- [x] - practice CodeWars 1hr
+- [ ] - Solve FCC 2hr
+- [x] - JS Udemy 4hr
+- [x] - Research 30m
+- [x] - Odin project 30m 
+      
+I need to build stuff. I can't do it from scratch at the stage that I am in. I don't want to copy the code either.I have decided to watch a tutorial for just starting out but give my own touch to it and build it from scratch on my own.
+
+**Link to work:**  [notes](https://github.com/suchi-291/JavascriptLessons/)
+
+  
+</details>
