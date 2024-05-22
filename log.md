@@ -129,7 +129,7 @@ I need to build stuff. I can't do it from scratch at the stage that I am in. I d
 Today was revision ritual for me. I should become a lot better at coding, today I faced difficulty while solving codewar challenges, the idea was correct but it was the way of syntax that was wrong, it was the usage of truthy and falsy values.
 My TO DO list:
 - [x] - practice CodeWars 1hr
-- [ ] - Revision
+- [x] - Revision
 
       
 **Link to work:**  [notes](https://www.notion.so/suchitharamachandrapurapu/Revision-Ritual-1-Wed-fc451053aa724611aec572a7f5696aaf?pvs=4)
