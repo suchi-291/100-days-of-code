@@ -136,3 +136,24 @@ My TO DO list:
 
   
 </details>
+
+<details>
+<summary>Day 14: May 24, 2024 </summary>
+
+**Today's Progress**: Solved CodeWars challenges, Revised everything, Completed first project from TOP, Halfway through functions.
+
+**Thoughts:** 
+Yesterday, I was doubting myself. Then I got to watch a cool youtube video. And my spirit is back, I understood I need to keep my expectations humble.Today I tried solving higher kyu levels in codewars, I could'nt solve them, may be I would have if I sat on them for long, but I had other things I needed to do, so could give it only 3 hours of time, even though my first intention was to put in 1 hour. I have broke something I guess, after setting up git in my VM, I cant do commits from Vs code on my windows. So I'm having to do everythingon Linux and use git commands while do, It's a good thing actually.
+
+My TO DO list:
+- [x] - practice CodeWars 1hr
+- [ ] - Solve FCC 2hr
+- [x] - JS Udemy 4hr
+- [x] - Research 30m
+- [x] - Odin project 30m 
+      
+      
+**Link to work:**  [notes](https://github.com/suchi-291/JavascriptLessons/tree/9fd2fba206bb242a6b7f3d980d10cfa4ca0f3f40/day24-Functions)
+
+  
+</details>
