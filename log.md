@@ -157,3 +157,16 @@ My TO DO list:
 
   
 </details>
+
+<details>
+<summary>Day 15: May 26, 2024 </summary>
+
+**Today's Progress**: Refreshed CSS foundations on the Odin Project
+
+**Thoughts:** 
+I can feel the despair kicking in, this is like second time in a week I skipped a day. Today I actually want to build projects along with the course that I am working on. Still I have this feeling of inadequacy if I'm only working on the udemy course. So I have decided to cover the odin foundations js as well, because if the way the curriculum was designed. Too many things on my plate at a time, burn't me out, so I'll be flexible and take things slowly, step by step.
+      
+**Link to work:**  [odin-exercises](https://github.com/suchi-291/css-exercises-odin.git)
+
+  
+</details>
