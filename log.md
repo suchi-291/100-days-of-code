@@ -170,3 +170,15 @@ I can feel the despair kicking in, this is like second time in a week I skipped 
 
   
 </details>
+
+<details>
+<summary>Day 16: May 27, 2024 </summary>
+
+**Today's Progress**: Solved Codewar challenges and solved problems while learning call, apply and bind methods.
+
+**Thoughts:** 
+I am slowly hitting the areas I have'nt got hands on ever since I started to code. Now I'm able to see new horizons opening and new ways to solve problems.
+      
+**Link to work:**  [notes](https://github.com/suchi-291/JavascriptLessons.git)
+  
+</details>
