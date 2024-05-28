@@ -182,3 +182,14 @@ I am slowly hitting the areas I have'nt got hands on ever since I started to cod
 **Link to work:**  [notes](https://github.com/suchi-291/JavascriptLessons.git)
   
 </details>
+
+<details>
+<summary>Day 17: May 28, 2024 </summary>
+
+**Today's Progress**: Today was all about functions, learned about IIFE and Closures, solved some CodeWar challenges and CSS flexbox. Built a polling application as a coding Challenge
+
+**Thoughts:** 
+Today was a ride, revisited the execution contexts, call stack and Scope while learning closures.
+      
+**Link to work:**  [notes](https://github.com/suchi-291/JavascriptLessons/tree/5d2a7a1506cb83608895d7b0a0cd74a43d23030c/day26-Functions)  
+</details>
