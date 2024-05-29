@@ -193,3 +193,15 @@ Today was a ride, revisited the execution contexts, call stack and Scope while l
       
 **Link to work:**  [notes](https://github.com/suchi-291/JavascriptLessons/tree/5d2a7a1506cb83608895d7b0a0cd74a43d23030c/day26-Functions)  
 </details>
+
+<details>
+<summary>Day 18: May 29, 2024 </summary>
+
+**Today's Progress**: Today was spent on the Odin project, flexbox.
+
+**Thoughts:** 
+There's so much power within flexbox, thanks to TOP, I have discovered a lot of tricks that I did'nt use before but would make my life a lo easier.
+      
+**Link to work:**  none (deliberate, check out my odin-lessons repo)
+</details>
+
