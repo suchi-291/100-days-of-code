@@ -200,8 +200,41 @@ Today was a ride, revisited the execution contexts, call stack and Scope while l
 **Today's Progress**: Today was spent on the Odin project, flexbox.
 
 **Thoughts:** 
-There's so much power within flexbox, thanks to TOP, I have discovered a lot of tricks that I did'nt use before but would make my life a lo easier.
+There's so much power within flexbox, thanks to TOP, I have discovered a lot of tricks that I did'nt use before but would make my life a lot easier.
       
 **Link to work:**  none (deliberate, check out my odin-lessons repo)
+</details>
+
+<details>
+<summary>Day 19: May 30, 2024 </summary>
+
+**Today's Progress**: Today was spent on the Odin project.
+
+**Thoughts:** 
+Today was spent on building landing page, it was entirely with the help of flexbox, I can see the difference in how I was able to do with ease compared to the times before. Looking at an image I was able to take decisions and plan the page, and build it without much friction.
+      
+**Link to work:** [Informer-landing page](https://suchi-291.github.io/Informer/)
+</details>
+
+<details>
+<summary>Day 20: June 01, 2024 </summary>
+
+**Today's Progress**: Day spent on Array methods, looping arrays and objects.
+
+**Thoughts:** 
+Today has not been a productive day, have spent some time on arrays
+      
+**Link to work:** [Link](https://github.com/suchi-291/JavascriptLessons/tree/e0881cc8348f33e317b4eace13b13453f89fa0aa/day27-Arrays)
+</details>
+
+<details>
+<summary>Day 21: June 02, 2024 </summary>
+
+**Today's Progress**: Worked my way through the odin project.
+
+**Thoughts:** 
+Readinf documentation got very much easier. I love odin because I have learnt about errors, problem solving methods, revised scoping all by reading and this is a huge progress for me.
+      
+**Link to work:** [Link](https://github.com/suchi-291/rock-paper-scissors.git)
 </details>
 
