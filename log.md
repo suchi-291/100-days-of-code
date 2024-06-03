@@ -238,3 +238,14 @@ Readinf documentation got very much easier. I love odin because I have learnt ab
 **Link to work:** [Link](https://github.com/suchi-291/rock-paper-scissors.git)
 </details>
 
+<details>
+<summary>Day 22: June 03, 2024 </summary>
+
+**Today's Progress**: Javascript coding exercises in Odin.
+
+**Thoughts:** 
+I am a little obsessed with the odin project because it does not stop to surprise me. I am on my way to completing the foundations course, got introduced to TDD, the challenges were simple but the test cases are mindboggling. 
+      
+**Link to work:** [Link] - none
+</details>
+
