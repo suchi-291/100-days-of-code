@@ -24,7 +24,7 @@ And you should join me too. Please visit [100DaysOfCode](https://www.100daysofco
 - [ ] Create a professional portfolio
 - [ ] Get out of tutorial hell and be able to build projects on my own
 
-[Check out the Dailylogs to learn about my daily update](https://github.com/suchi-291/100-days-of-code/blob/d9dd7df786a69a511da749a87f6cb54b570c45c8/log.md)
+[Check out the Dailylogs to learn about my daily update](https://github.com/suchi-291/100-days-of-code/blob/93a0d49e16db9550e6ef1122ceea112ace22cfe8/log.md)
 
 
 **update (15/05/24)** - It's been a week, since I have gotten into 100 DaysOfCode Challenge, I have updated my progress on my [twitter](https://twitter.com/RaoSuchitha) account from Day-1 but have'nt entered logs, I have decided to try out right this time, and will upload daily logs.
