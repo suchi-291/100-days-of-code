@@ -249,3 +249,15 @@ I am a little obsessed with the odin project because it does not stop to surpris
 **Link to work:** [Link] - none
 </details>
 
+<details>
+<summary>Day 23: June 06, 2024 </summary>
+
+**Today's Progress**: Array methods and Bankist project
+
+**Thoughts:** 
+I started my biggest project ever, even though there's tutorial and I'm doing it by watching tutorial, it's very different and great application to whatever I have been learning till now and mastering arrays. Learning concepts while doing a practical application while learning along, is the best approach for me. I'm going to definitely use these techniques in my future projects. 
+      
+**Link to work:** [Link] - none
+</details>
+
+
