@@ -261,3 +261,16 @@ I started my biggest project ever, even though there's tutorial and I'm doing it
 </details>
 
 
+<details>
+<summary>Day 24: June 10, 2024 </summary>
+
+**Today's Progress**: Array methods and Bankist project
+
+**Thoughts:** 
+
+Working on project Bankist app 
+      
+**Link to work:** [Link] - none
+</details>
+
+
