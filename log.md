@@ -274,3 +274,14 @@ Working on project Bankist app
 </details>
 
 
+<details>
+<summary>Day 25: June 13, 2024 </summary>
+
+**Today's Progress**: Array methods and Bankist project, Implemented login, money transfer, close account feature.
+
+**Thoughts:** 
+
+Working on project Bankist app 
+      
+**Link to work:** [Link] - none
+</details>
