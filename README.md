@@ -35,3 +35,4 @@ And you should join me too. Please visit [100DaysOfCode](https://www.100daysofco
 |------|------|------------|-------|
 |19-05-24| Galactic Glyph | HTML, CSS, Javascript | [Link](https://suchi-291.github.io/GalacticGlyph/) |
 |31-05-24| Informer-Landing Page | HTML, CSS-Flexbox | [Link](https://suchi-291.github.io/Informer/) |
+|14-06-24| EzBank | HTML, CSS, Javascript | [Link](https://suchi-291.github.io/minimalist-banking-app/)|
