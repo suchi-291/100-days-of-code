@@ -285,3 +285,15 @@ Working on project Bankist app
       
 **Link to work:** [Link] - none
 </details>
+
+<details>
+<summary>Day 26: June 14, 2024 </summary>
+
+**Today's Progress**: Array methods and Bankist project, Implemented loan lending feature, implemented sort feature for sorting the transactions and displaying UI using stae variable.
+
+**Thoughts:** 
+
+Working on project Bankist app 
+      
+**Link to work:** [Link] - none
+</details>
