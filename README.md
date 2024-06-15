@@ -24,7 +24,7 @@ And you should join me too. Please visit [100DaysOfCode](https://www.100daysofco
 - [ ] Create a professional portfolio
 - [ ] Get out of tutorial hell and be able to build projects on my own
 
-[Check out the Dailylogs to learn about my daily update](https://github.com/suchi-291/100-days-of-code/blob/4d36bab1b17837c0a4bb7c53785fd5cf7c393af7/log.md)
+[Check out the Dailylogs to learn about my daily update](https://github.com/suchi-291/100-days-of-code/blob/ca9145e8e410cf4f24d25cf4e7c61f2892dd4aca/log.md)
 
 
 **update (15/05/24)** - It's been a week, since I have gotten into 100 DaysOfCode Challenge, I have updated my progress on my [twitter](https://twitter.com/RaoSuchitha) account from Day-1 but have'nt entered logs, I have decided to try out right this time, and will upload daily logs.
@@ -36,3 +36,4 @@ And you should join me too. Please visit [100DaysOfCode](https://www.100daysofco
 |19-05-24| Galactic Glyph | HTML, CSS, Javascript | [Link](https://suchi-291.github.io/GalacticGlyph/) |
 |31-05-24| Informer-Landing Page | HTML, CSS-Flexbox | [Link](https://suchi-291.github.io/Informer/) |
 |14-06-24| EzBank | HTML, CSS, Javascript | [Link](https://suchi-291.github.io/minimalist-banking-app/)|
+|15-06-24| Personal portfolio | HTML, CSS, Javascript | [Link](https://suchi-291.github.io/suchiCodes/) |
