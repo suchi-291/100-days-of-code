@@ -297,3 +297,14 @@ Working on project Bankist app
       
 **Link to work:** [Link] - none
 </details>
+
+<summary>Day 27: June 15, 2024 </summary>
+
+**Today's Progress**: Built my portfolio
+
+**Thoughts:** 
+
+ 
+      
+**Link to work:** [Link] - (https://suchi-291.github.io/suchiCodes/journey.html)
+</details>
