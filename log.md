@@ -298,6 +298,7 @@ Working on project Bankist app
 **Link to work:** [Link] - none
 </details>
 
+<details>
 <summary>Day 27: June 15, 2024 </summary>
 
 **Today's Progress**: Built my portfolio
@@ -306,5 +307,18 @@ Working on project Bankist app
 
  
       
-**Link to work:** [Link] - (https://suchi-291.github.io/suchiCodes/journey.html)
+**Link to work:** [Link] - (https://suchidevfolio.netlify.app)
+</details>
+
+
+<details>
+<summary>Day 28, 29: June 17, 2024 </summary>
+
+**Today's Progress**: Made all the projects in my portfolio, mobile responsive and added hamburger menu.
+
+**Thoughts:** 
+I think the odin project landing page did not turn out great, but will try to change how it looks tomorrow.
+ 
+      
+**Link to work:** [Link] - (https://suchidevfolio.netlify.app)
 </details>
