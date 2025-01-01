@@ -1,35 +1,16 @@
 # 100DaysOfCode Challenge
+**Goal - To become a Skilled Web 3.0 React Js Developer.**
 
-I have seen people code every day and complete the challenge. This challenge helps me feel accountable and not lose track of my progress.
-
-As per the challenge, I will code for at least an hour every day for the next 100 days.
-
-I’ve decided to make this a public commitment.
-
-And you should join me too. Please visit [100DaysOfCode](https://www.100daysofcode.com/) Official Website for more information about the challenge
-
-**Goal - To become a Skilled React Js Developer.**
-
-**Starting Date - 07,May 2024**
+**Starting Date - 01,January 2025**
 
 **Agenda:**
 
-- [ ] Learn from the [Javascript Mastery Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) and build projects
-- [ ] Complete [FCC Legacy JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures) Certification
-- [ ] Complete [FCC Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
-- [ ] Learn react from [the Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/) and build projects
-- [ ] Develop an E-commerce Website using HMTL, CSS, JS, React - [propeers](https://www.propeers.in/roadmaps/657dafb34f74377fd1ac07b0)
-- [ ] Develop an OTT Website using HMTL, CSS, JS, React - [propeers](https://www.propeers.in/roadmaps/657dafb34f74377fd1ac07b0)
-- [ ] Learn Front-end from [the Odin Project](https://www.theodinproject.com/)
-- [x] Create a professional portfolio
-- [ ] Get out of tutorial hell and be able to build projects on my own
+- [ ] Rewrite W3schools front-end How to Tutorial into React Components. - daily challenge
+- [ ] Master Javascript with CodeWars - daily challenge
+- [ ] Build 12 dapp projects
 
-[Check out the Dailylogs to learn about my daily update](https://github.com/suchi-291/100-days-of-code/blob/6963f4c1a5a7892e88c73e34f9ca93b3fc6015cf/log.md)
 
-**update (15/05/24)** - It's been a week, since I have gotten into 100 DaysOfCode Challenge, I have updated my progress on my [twitter](https://twitter.com/RaoSuchitha) account from Day-1 but have'nt entered logs, I have decided to try out right this time, and will upload daily logs.
-
-**update (01/06/24)** - Had a Depressive episode from June 17 till yesterday, I am picking myself up back again.
-
+# Round - 1 (2024)
 ## Projects
 
 | Date     | Name                  | Technology            | Link                                                        |
@@ -38,3 +19,7 @@ And you should join me too. Please visit [100DaysOfCode](https://www.100daysofco
 | 31-05-24 | Informer-Landing Page | HTML, CSS-Flexbox     | [Link](https://suchi-291.github.io/Informer/)               |
 | 14-06-24 | EzBank                | HTML, CSS, Javascript | [Link](https://suchi-291.github.io/minimalist-banking-app/) |
 | 15-06-24 | Personal portfolio    | HTML, CSS, Javascript | [Link](https://suchidevfolio.netlify.app)                   |
+
+
+# Round - 2 (2025)
+## Projects
