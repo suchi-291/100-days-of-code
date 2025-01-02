@@ -23,3 +23,6 @@
 
 # Round - 2 (2025)
 ## Projects
+| Date     | Name                  | Technology            | Link                                                        |
+| -------- | --------------------- | --------------------- | ----------------------------------------------------------- |
+| 02-01-25 | Dynamic icon bar        | HTML, CSS, Javascript, react js | [Link](https://suchi-291.github.io/GalacticGlyph/)          |
