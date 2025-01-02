@@ -25,4 +25,4 @@
 ## Projects
 | Date     | Name                  | Technology            | Link                                                        |
 | -------- | --------------------- | --------------------- | ----------------------------------------------------------- |
-| 02-01-25 | Dynamic icon bar        | HTML, CSS, Javascript, react js | [Link](https://suchi-291.github.io/GalacticGlyph/)          |
+| 02-01-25 | Dynamic icon bar        | HTML, CSS, Javascript, react js | [Link](https://github.com/suchi-291/dynamic-icon-bar)          |
